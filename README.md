@@ -1,5 +1,5 @@
 # Brick
-  Very simple programming language interpreted in python  
+  Very rudimentary programming language interpreted in python  
   
   Has a Stack and a 0-indexed dynamic size "Memory" Array.  
   It is also case sensitive.  
